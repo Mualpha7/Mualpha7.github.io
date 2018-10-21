@@ -19,4 +19,7 @@ $header .= "Reply-To: $email";
 
 if(!mail($to, $subject, $body, $header))
   http_response_code(500);
+
+mail($to,$email_subject,$email_body,$headers);
+return true;
 ?>
