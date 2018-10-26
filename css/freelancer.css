@@ -120,11 +120,11 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
-  color: #e2c922;
+  color: #fff;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #188abc;
+  color: #e2c922;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
